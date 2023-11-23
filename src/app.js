@@ -15,10 +15,6 @@ document.addEventListener("DOMContentLoaded", event => {
             document.querySelector("textarea").value = "";
         }
     });
-
-    document.querySelector("#btnLearn").addEventListener("click", event => {
-        location.href = "https://frontendmasters.com";
-    })
 })
 
 // Render the notes on the DOM
