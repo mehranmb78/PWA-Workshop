@@ -1,0 +1,28 @@
+{
+  "name": "DEV Day PWA Workshop",
+  "short_name": "PWA-Workshop",
+  "start_url": "./",
+  "theme_color": "#ffc252",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/teamwork_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/teamwork_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "This app lets you add notes while you are coding",
+  "screenshots": [
+    {
+      "src": "assets/screenshot.png",
+      "sizes": "1170x2532",
+      "type": "image/png"
+    }
+  ]
+}
