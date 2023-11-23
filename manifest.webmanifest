@@ -22,7 +22,14 @@
     {
       "src": "assets/screenshot.png",
       "sizes": "1170x2532",
-      "type": "image/png"
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/screenshot.png",
+      "sizes": "1170x2532",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ]
 }
