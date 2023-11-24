@@ -7,7 +7,7 @@ This workshop is about to learn most of the PWA and for that i made an basic and
 clone the project and checkout to main branch in there just type:
 
 ```shell
-npx serve .
+npm start
 ```
 
 keep in mind you should have node js in your system.
