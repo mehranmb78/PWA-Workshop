@@ -11,3 +11,5 @@ npm start
 ```
 
 keep in mind you should have node js in your system.
+
+!!slides [link](https://docs.google.com/presentation/d/e/2PACX-1vSbWB62B6n2egasy_f9RJK5m5p16k9kE8MwgZlI_mwDm8A5jVh5hR68ys2QRjNlXm0vC5u0jXOVNW-e/pub?start=true&loop=true&delayms=60000) !!
