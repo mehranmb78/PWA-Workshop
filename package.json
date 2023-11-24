@@ -1,0 +1,13 @@
+{
+  "name": "pwa-workshop",
+  "version": "1.0.0",
+  "description": "This workshop is about to learn most of the PWA and for that i made an basic and simple project with html and vanila js you can see in main branch and also we have result branch to see the result of the workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve . -p 1010"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
